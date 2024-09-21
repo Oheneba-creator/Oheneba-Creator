@@ -25,4 +25,8 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Oheneba-Creator}/count.svg" alt="OHENEBA-CREATOR :: Visitor's Count" />
 </p>
+<section id="about" style="padding: 50px 20px; background-color: black;">
+  <div align="center" style="max-width: 1000px; margin: 0 auto;">
+    <img src="https://i.postimg.cc/s21DvM6f/download.png" alt="Oheneba-Creator" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
+  </div>
 
