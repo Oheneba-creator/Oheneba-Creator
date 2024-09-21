@@ -21,4 +21,8 @@
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+<p align="center" style="color: yellow;">VIEWERS COUNT:</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Oheneba-Creator}/count.svg" alt="OHENEBA-CREATOR :: Visitor's Count" />
+</p>
 
