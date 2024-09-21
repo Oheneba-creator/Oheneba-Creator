@@ -37,4 +37,25 @@
 <p align="center">
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 </p>
+---
+
+### :telescope: What I Do:
+- Working as a Software Engineer, contributing to both frontend and backend for building web applications.
+- Currently working on my own website ---
+
+### :telescope: What I Do:
+- Working as a Software Engineer, contributing to both frontend and backend for building web applications.
+- Currently working on my own website. <a href="https://thenelsonfoundation.online">the Nelson Foundation</a>
+- Passionate about creating high-quality, user-friendly websites..
+- Passionate about creating high-quality, user-friendly websites.
+
+### :mailbox: How to Reach Me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-nelson-7b53a318b/)
+[![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233550848284?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Oheneba-Creator+Repo)
+
+---
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oheneba-Creator&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 
