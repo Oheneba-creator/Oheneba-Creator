@@ -29,4 +29,12 @@
   <div align="center" style="max-width: 1000px; margin: 0 auto;">
     <img src="https://i.postimg.cc/s21DvM6f/download.png" alt="Oheneba-Creator" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
   </div>
+  <h2 style="font-size: 36px; color: #333; text-align: center;">About Me</h2>
+  <p style="font-size: 18px; color: #666; text-align: center; margin-top: 20px;">
+    As a driven and collaborative individual, my passion for software development stems from a deep-seated desire to address real-world challenges and positively impact people's lives. I thrive in dynamic environments where ideas are freely exchanged, and innovation is encouraged.
+  </p>
+</section>
+<p align="center">
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+</p>
 
