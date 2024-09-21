@@ -11,4 +11,14 @@
   <a href="https://www.linkedin.com/in/isaac-nelson-7b53a318b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=yellow" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/@teamhype2366">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/share/edvvaHRtitDJLwxc/?mibextid=qi2Omg">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://x.com/Oheneba_Ik">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
